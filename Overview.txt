@@ -1,0 +1,3 @@
+This is a simple shopping cart built with Codeigniter.
+It has only the shopping cart functionality - add , update or delete a  product.
+It doesn't have the checkout function.  
